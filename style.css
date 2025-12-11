@@ -1,0 +1,16 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  color: #333;
+}
+
+h1 {
+  text-transform: uppercase;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
+
+p {
+  margin-left: 2rem;
+}
